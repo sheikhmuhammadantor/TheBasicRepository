@@ -1,0 +1,13 @@
+h2{
+    color: #2424ec;
+}
+.embedHtml{
+    margin: 10px;
+}
+
+
+/* Link are not working for moon area with Height and width // It Work for the wrong area  */
+/* .moonImg{
+    height: 500px;
+    width: auto;
+} */
